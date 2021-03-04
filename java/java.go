@@ -577,8 +577,8 @@ var (
 	exportedPluginTag     = dependencyTag{name: "exported-plugin"}
 	bootClasspathTag      = dependencyTag{name: "bootclasspath"}
 	systemModulesTag      = dependencyTag{name: "system modules"}
-	revengeosResTag         = dependencyTag{name: "com.revengeos.platform-res"}
-	frameworkApkTag       = dependencyTag{name: "framework-apk"}
+	frameworkResTag       = dependencyTag{name: "framework-res"}
+	revengeosResTag       = dependencyTag{name: "com.revengeos.platform-res"}
 	kotlinStdlibTag       = dependencyTag{name: "kotlin-stdlib"}
 	kotlinAnnotationsTag  = dependencyTag{name: "kotlin-annotations"}
 	proguardRaiseTag      = dependencyTag{name: "proguard-raise"}
